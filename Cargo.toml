@@ -8,3 +8,5 @@ edition = "2021"
 [dependencies]
 windows-drives = "0.5.0"
 sysinfo = "0.26.8"
+itertools = "0.10.5"
+gptman = "1.0.0"
