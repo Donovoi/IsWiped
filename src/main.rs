@@ -1,5 +1,4 @@
 // A simple rust console program that takes a physical drive as input and checks if the drive has been wiped either by completely overwriting the drive or by using a secure erase method.
-//THe program will use the gpu to speed up the process of checking the drive.
 // the program will then output the results to the console with wiped and the possible method used.
 
 use sysinfo::{System, SystemExt, DiskExt};
